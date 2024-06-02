@@ -1,0 +1,15 @@
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\bin\Debug\netcoreapp3.1\PIS.RepositoryCommon.deps.json
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\bin\Debug\netcoreapp3.1\PIS.RepositoryCommon.dll
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\bin\Debug\netcoreapp3.1\PIS.RepositoryCommon.pdb
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\bin\Debug\netcoreapp3.1\PIS.DAL.dll
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\bin\Debug\netcoreapp3.1\PIS.Model.dll
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\bin\Debug\netcoreapp3.1\PIS.DAL.pdb
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\bin\Debug\netcoreapp3.1\PIS.Model.pdb
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.csproj.AssemblyReference.cache
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.AssemblyInfoInputs.cache
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.AssemblyInfo.cs
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.csproj.CoreCompileInputs.cache
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.csproj.CopyComplete
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.dll
+C:\Users\GitaPejović\Desktop\PIS\PIS.RepositoryCommon\obj\Debug\netcoreapp3.1\PIS.RepositoryCommon.pdb
